@@ -7,3 +7,15 @@ Welcome to KPMG Data analyst Virtual Internship Experience through [Forage](http
 
 KPMG AU virtual Internship Data Analysis
 
+In this project, a real business problem was analyzed using real data. 
+
+*   Assessment of Data Quality
+*   Data Cleaning
+*   Data Visualisation & Presentation 
+
+## Technologies used
+
+*  Python
+*  MS Excel
+*  Jupyter Notebook, Pandas, Numpy
+*  Tableau & powerBi
