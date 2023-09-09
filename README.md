@@ -5,7 +5,7 @@ Welcome to KPMG Data analyst Virtual Internship Experience through [Forage](http
 ![image](https://github.com/prathmeshpatil98/Certificates/blob/main/KPMG%20CErtificate-1.png)
 
 
-KPMG AU virtual Internship Data Analysis
+KPMG AU virtual Internship Data Analysis Via Forage
 
 In this project, a real business problem was analyzed using real data. 
 
@@ -18,4 +18,4 @@ In this project, a real business problem was analyzed using real data.
 *  Python
 *  MS Excel
 *  Jupyter Notebook, Pandas, Numpy
-*  Tableau & powerBi
+*  Tableau & powerBi 
