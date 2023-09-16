@@ -15,7 +15,7 @@ In this project, a real business problem was analyzed using real data.
 
 ## Technologies used
 
-*  Python
+*  Python and Data visualization
 *  MS Excel
 *  Jupyter Notebook, Pandas, Numpy
 *  Tableau & powerBi 
