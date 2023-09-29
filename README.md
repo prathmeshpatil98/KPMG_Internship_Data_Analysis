@@ -13,7 +13,7 @@ In this project, a real business problem was analyzed using real data.
 *   Data Cleaning
 *   Data Visualisation & Presentation 
 
-## Technologies used
+## Technologies used in this project
 
 *  Python and Data visualization
 *  MS Excel
