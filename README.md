@@ -19,4 +19,5 @@ In this project, a real business problem was analyzed using real data.
 *  MS Excel
 *  Jupyter Notebook, Pandas, Numpy
 *  Tableau & powerBi 
-*  Data visualization 
+*  Data visualization
+*  Data Analysis
